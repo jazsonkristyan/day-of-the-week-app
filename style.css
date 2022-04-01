@@ -2,13 +2,16 @@
 
 body{
     font-family: 'Ubuntu', 'sans-serif';
-    margin: 50px;
     background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
 #container{
-    width: 650px;
     height: 350px;
+    width: 80%;
     background-color: blanchedalmond;
     margin: auto;
     border-radius: 30px;
